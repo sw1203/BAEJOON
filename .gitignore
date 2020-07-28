@@ -352,3 +352,6 @@ MigrationBackup/
 /Algorithm/Algorithm.sln
 /Algorithm/Algorithm.vcxproj
 /Algorithm/Algorithm.vcxproj.filters
+C++/Algorithm.sln
+C++/Algorithm.vcxproj
+C++/Algorithm.vcxproj.filters
